@@ -1,0 +1,21 @@
+{
+	"Server":{
+		"port":8085,
+		"host":"local"
+	},
+
+	"Database":{
+		"name":"Cassandra",
+		"username":"Abhishek",
+		"password":"idontknow",
+		"keyspace":"server",
+		"url":"don't know"
+	},
+
+	"logger":{
+		"path":"/logger",
+		"loglevel":"info"
+	}
+	
+
+}
